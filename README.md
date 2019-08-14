@@ -5,6 +5,23 @@
  
 -------
 
+## Tópicos do Curso 
+
+### Módulo 1 - Conceitos e Aplicações
+
+- [x] Conceitos e Aplicações
+- [x] Tarefas da Mineração de Dados 
+- [x] Método CRISP-DM [CRoss Industry Standard Process for Data Mining]
+
+### Módulo 2 - Google Colab 
+
+- [x] Anaconda
+- [x] Jupyter Notebook 
+- [x] Google Colab 
+
+### Módulo 3 - Dominando o Python
+
+### Módulo 4 - Python para Análise de Dados
 
 ## Links complementares 
 
